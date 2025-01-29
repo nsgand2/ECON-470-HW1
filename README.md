@@ -1,2 +1,6 @@
 # ECON-470-HW1
-N/A
+## Author: Nikhita Gandhe
+
+# Import Libraries
+import pandas as pd
+
