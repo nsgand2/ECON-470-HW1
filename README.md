@@ -1,3 +1,3 @@
 # ECON-470-HW1
-## Author: Nikhita Gandhe
+## Author: Nikhita Gandhe 
 
